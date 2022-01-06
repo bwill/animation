@@ -1,0 +1,1 @@
+esbuild .\app.ts --bundle --servedir=www --outdir=www\js
